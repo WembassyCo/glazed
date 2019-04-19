@@ -1,0 +1,12 @@
+{
+    "name": "wembassyco/glazed",
+    "description": "Glazed Package for Drupal",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Chris McIntosh",
+            "email": "cmcintosh@wembassy.com"
+        }
+    ],
+    "require": {}
+}
