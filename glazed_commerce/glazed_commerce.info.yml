@@ -1,8 +1,0 @@
-name: Glazed Commerce
-type: module
-description: Adds Glazed Builder support for Products.
-core: 8.x
-package: Other
-dependencies:
-  - commerce:commerce_product
-  - glazed_builder:glazed_builder

@@ -1,9 +1,0 @@
-<?php
-
-/**
- * Implements hook_glazed_builder_elements_folders_alter().
- */
-function wembassy_glazer_glazed_builder_elements_folders_alter(&$glazed_elements_folders) {
-  $themes = system_list('theme');
-
-}

@@ -1,6 +1,0 @@
-name: Wembassy Glazer
-type: module
-description: Allows Glazed to discover Glazed Elements in themes.
-core: 8.x
-dependencies:
-  - glazed_builder:glazed_builder
