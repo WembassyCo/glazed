@@ -1,7 +1,7 @@
 {
     "name": "wembassyco/glazed",
     "description": "Glazed Page builder theme for Drupal 9.",
-    "type": "project",
+    "type": "drupal-theme",
     "license": "MIT",
     "repositories": {
         "assets": {
